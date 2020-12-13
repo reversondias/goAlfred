@@ -1,5 +1,5 @@
 # Go Alfred
-It's a command line to make easy some repetable tasks.  
+It's a command line to make easy some repeatable tasks.  
 
 ## Summary
 ### encode
@@ -10,7 +10,7 @@ alfred base64 -encode
 ```
 or  
 ```
-alfred base64 -encode  
+alfred base64 -decode  
 ```
 
 ### HTTP Request
