@@ -1,0 +1,11 @@
+---
+url: http://dummy.restapiexample.com/api/v1/create
+method: POST
+headers:
+  - "Content-Type:  application/json; charset=UTF-8" 
+body: |
+    {
+    	"name":"test",
+    	"salary":"123",
+    	"age":"23"
+    }
